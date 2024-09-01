@@ -12,4 +12,4 @@ This project integrates deep learning models and computer vision techniques to d
 
 ## Access additional resources:
    - Weekly progress updates: [joniabeje.github.io](https://joniabeje.github.io/)
-   - Presentations, research paper, demos, pictures, diagrams, notes and additional materials: [Google Drive Folder (https://drive.google.com/drive/folders/1zmo__KHb0HD4RWS3StLpCUhaSTBa52a2)
+   - Presentations, research paper, demos, pictures, diagrams, notes and additional materials: [Google Drive Folder] (https://drive.google.com/drive/folders/1zmo__KHb0HD4RWS3StLpCUhaSTBa52a2)
